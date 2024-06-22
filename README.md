@@ -72,6 +72,9 @@ Welcome to the Amazon Expense Tracker and AI Chatbot project! This repository co
 - **dotenv**: For managing environment variables.
 - 
 ## Demo
+![Home page](Logo/home1.jpg)
+![Home page](Logo/home2.jpg)
+
 
 
 ## Contributing

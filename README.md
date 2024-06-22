@@ -70,6 +70,9 @@ Welcome to the Amazon Expense Tracker and AI Chatbot project! This repository co
 - **Google Generative AI**: For generating responses and embeddings.
 - **PyPDF2**: For reading and processing PDF files.
 - **dotenv**: For managing environment variables.
+- 
+## Demo
+
 
 ## Contributing
 

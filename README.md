@@ -1,10 +1,9 @@
-# Amazon Expense Tracker and AI Chatbot
+# Smart AI Chatbot
 
 Welcome to the Amazon Expense Tracker and AI Chatbot project! This repository contains the code and resources for an intelligent chatbot integrated with an expense tracker designed specifically for Amazon. The bot can help you keep track of your expenses and assist with various queries.
 
 ## Features
 
-- **Expense Tracking**: Automatically track and categorize your Amazon expenses.
 - **AI Chatbot**: A smart chatbot that can answer queries about your expenses and provide assistance.
 - **PDF Integration**: Load and process expense data from PDF files.
 - **Natural Language Processing**: Use NLP to understand and respond to user queries.
@@ -95,8 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please contact:
 
 - Your Name
-- Email: yourname@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: smartsamarth77@gmail.com
 
 ---
 

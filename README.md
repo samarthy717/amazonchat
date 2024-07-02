@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact:
 
-- Your Name
+- Samarth Yadav
 - Email: smartsamarth77@gmail.com
 
 ---
